@@ -2,7 +2,7 @@
 
 JSON schema of khulnasoft.yml files
 
-[![npm version](https://badge.fury.io/js/khulnasoft-json-schema.svg)](https://badge.fury.io/js/khulnasoft-json-schema)
+[![npm version](https://img.shields.io/badge/khulnasoft-json-schema.svg)](https://img.shields.io/badge/js/khulnasoft-json-schema)
 
 ## Usage
 
